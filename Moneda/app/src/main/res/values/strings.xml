@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Moneda</string>
+    <color name="nuevoColor">#C5e2f0</color>
+    <string name="Dolares">A soles</string>
+    <string name="Soles">A dólares</string>
+    <string name="Convertir">Calcular</string>
+    <string name="miClicManejador">miClicManejador</string>
+    <string name="Ingrese_cantidad_a_convertir">Ingrese cantidad a convertir</string>
+    <string name="ingrese_cantidad_a_convertir">Ingrese cantidad a convertir</string>
+    <string name="d_lares">Dólares</string>
+    <string name="soles">Soles</string>
+    <string name="convertir">Convertir</string>
+</resources>

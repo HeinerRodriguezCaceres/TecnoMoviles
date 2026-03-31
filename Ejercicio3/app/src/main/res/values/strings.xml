@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+    <string name="ingrese_cantidad_a_convertir">Ingrese cantidad a convertir</string>
+    <string name="d_lares">Dólares</string>
+    <string name="soles">Soles</string>
+    <string name="convertir">Convertir</string>
+
+</resources>
