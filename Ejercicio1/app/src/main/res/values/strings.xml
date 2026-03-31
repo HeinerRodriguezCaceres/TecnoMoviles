@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ejercicio 1-prac2</string>
+    <string-array name="monedas_nombres">
+        <item>Seleccione Moneda</item>
+        <item>Dólar (USD)</item>
+        <item>Sol Peruano (PEN)</item>
+        <item>Euro (EUR)</item>
+        <item>Libra (GBP)</item>
+        <item>Rupia (INR)</item>
+        <item>Real (BRL)</item>
+        <item>Peso (MXN)</item>
+        <item>Yuan (CNY)</item>
+        <item>Yen (JPY)</item>
+    </string-array>
+</resources>
